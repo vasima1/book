@@ -1,0 +1,31 @@
+
+
+html{
+    min-height: 100%;
+}
+body {
+    min-height: 100%;
+    font-size: 14px;
+}
+h1 {
+    text-align: center;
+}
+.none {
+    display: none;
+}
+.row {
+    margin: 0;
+}
+.spoiler {
+    padding: 5px 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    background: #eee;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.list-item-bl {
+    border: 1px solid;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
